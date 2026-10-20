@@ -1,0 +1,38 @@
+{
+ "name": "people",
+ "title": "Người đi đường",
+ "version": "0.1.0",
+ "requires": {
+  "host": 3
+ },
+ "files": [
+  "Chef_Female_01.glb",
+  "Construction_Male_01.glb",
+  "Delivery_Male_01.glb",
+  "Female_Adult_01.glb",
+  "Female_Adult_02.glb",
+  "Female_Adult_03.glb",
+  "Female_Adult_04.glb",
+  "Female_Adult_05.glb",
+  "Female_Adult_07.glb",
+  "Female_Adult_08.glb",
+  "Female_Adult_09.glb",
+  "Female_Adult_11.glb",
+  "Female_Adult_12.glb",
+  "Female_Adult_13.glb",
+  "Female_Adult_14.glb",
+  "Female_Adult_15.glb",
+  "Female_Adult_17.glb",
+  "Gardener_Male_01.glb",
+  "Male_Adult_01.glb",
+  "Male_Adult_02.glb",
+  "Male_Adult_03.glb",
+  "Male_Adult_04.glb",
+  "Male_Adult_05.glb",
+  "Male_Adult_06.glb",
+  "Male_Adult_07.glb",
+  "Male_Adult_08.glb",
+  "Male_Adult_09.glb",
+  "Male_Adult_10.glb"
+ ]
+}

@@ -1,0 +1,7 @@
+AgentOrch · Assets
+Copyright 2026 RunSnip
+
+This repository is licensed under the Apache License, Version 2.0 (see LICENSE).
+- people/*.glb — characters from the Microsoft Rocketbox Avatar Library
+  (https://github.com/microsoft/Microsoft-Rocketbox), MIT License, Copyright (c) Microsoft Corporation;
+  converted (textures reduced, no animation clips) for the street.
